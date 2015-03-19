@@ -125,7 +125,7 @@ nav a:hover {
 	padding: 1em 1em 1em 1em;
 	margin: 0;
 	font-size: 1.5rem;
-	font-style: bold;
+	font-weight: bolder;
 	font-family: 'Noto Sans', sans-serif;
 }
 
@@ -171,7 +171,7 @@ nav a:hover {
 	padding: 1em 1em 1em 1em;
 	margin: 0;
 	font-size: 1.5rem;
-	font-style: bold;
+	font-weight: bolder;
 	font-family: 'Noto Sans', sans-serif;
 }
 
@@ -217,7 +217,7 @@ nav a:hover {
 	padding: 1em 1em 1em 1em;
 	margin: 0;
 	font-size: 1.5rem;
-	font-style: bold;
+	font-weight: bolder;
 	font-family: 'Noto Sans', sans-serif;
 }
 
