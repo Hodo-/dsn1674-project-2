@@ -14,40 +14,42 @@ margin: 0;
 
 header {
 	background-color: #e7001d;
-	padding: 1em 0em 0em 0em;
+	padding: 0;
 	text-align: center;
 	margin: 0;
+	line-height: 10%;
 }
 
 .medallion {
 	background-color: #e7001d;
-	width: 25%;
+	width: 30%;
 	padding: 0;
-	position:absolute;
-	left: 142px;
-	top: 20px;
-}
-
-
-h1 {
-	padding: 1em 0.5em 2em 0.5em;
 	margin: 0;
-	text-align: center;
-	color: white;
-	font-weight: bolder;
-	font-size: 0.8rem;
-	font-style: normal;
-	text-shadow: 1.5px 1.5px black;
-	font-family: 'Noto Sans', sans-serif;
 	position: relative;
+	top: 14px;
 }
 
 .symbols {
+	padding: 0;
+	margin: 0;
 	font-size: 2.8rem;
 	font-family: 'Noto Sans', sans-serif;
 	text-shadow: 1.5px 1.5px black;
 	position: relative;
-	bottom: 15px;
+	bottom: 35px;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+	font-size: 0.9rem;
+	text-shadow: 1.5px 1.5px black;
+	font-family: 'Noto Sans', sans-serif;
+	position: relative;
+	bottom: 30px;
 }
 
 nav ul {
