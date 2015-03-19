@@ -281,7 +281,7 @@ footer {
 	line-height: 1;
 }
 
-footer a:hover {
+div a:hover {
 	background-color: #222222;
 	color: white;
 }
