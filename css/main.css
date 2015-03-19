@@ -75,7 +75,7 @@ nav li {
 nav a {
 	display: block;
 	padding: 0.5em 0.5em 0.5em 0.5em;
-	text-align: center;
+	text-align: left;
 	color: white;
 	text-decoration: none;
 	margin: 0;
@@ -282,7 +282,13 @@ footer {
 }
 
 footer a:hover {
+	display: block;
 	background-color: #222222;
 	color: white;
 }
 
+footer a {
+	display: block;
+	background-color: #222222;
+	color: white;
+}
